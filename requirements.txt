@@ -1,0 +1,4 @@
+audioop-lts==0.2.2
+lavalink==5.9.0
+py-cord==2.7.0rc1
+python-dotenv==1.2.1
